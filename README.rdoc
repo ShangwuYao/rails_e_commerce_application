@@ -2,7 +2,11 @@
 
 Subscription-based web application
 
-Finished version 1.0 on 04/07/2017
+This is a website that allows developers, entrepeneurs and investors to meet each other.
+Paying customers could get access to other's contact information.
+This is a test version so it won't actually charge users or verify their credit card information.
+
+Finished version 0.9 on 04/07/2017
 
 * Ruby version
 
