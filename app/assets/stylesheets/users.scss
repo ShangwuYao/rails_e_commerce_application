@@ -25,10 +25,21 @@
 }
 .round-picture{
     border: 2px solid white;
+    background-color: white;
     border-radius: 50%;
 }
 .picture-shadow{
     -webkit-box-shadow: 2px 8px 6px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 2px 8px 6px 0px rgba(0,0,0,0.75);
     box-shadow: 2px 8px 6px 0px rgba(0,0,0,0.75);
+}
+.well.cream-bg{
+    background-color: #ffff80;
+}
+.well.green-bg{
+    background-color: #66ff66;
+}
+.user-show-avatar{
+    height: 128px;
+    width: 128px;
 }
